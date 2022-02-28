@@ -1,0 +1,25 @@
+segment_sources:
+  PD3F05D6D:
+    type: origin_type
+    relation: translation
+    language: en
+  P0680C678:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  5a58e3516c72467fa0ff7742cb4f5815:
+    PD3F05D6D: a0f2316983fb49ca819f67fe2e77f143
+    P0680C678: d637a627114a475e9c57139a8bc92ed0
+  53f20bf0786441398d3c88b9b8814f6e:
+    PD3F05D6D: 532b2dfe665d4173bc5f272903226eff
+    P0680C678: 05f698e130b8416fa867fe1e4e2414a6
+  0b907f5aee4e4d35b605f1bd587ea448:
+    PD3F05D6D: 48e5ec47093d45179f5002871d7681ab
+    P0680C678: b75951f8b71742188ecefcbaf883236c
+  be3c297047fa47a6b7f081cca86c1819:
+    PD3F05D6D: 49785a8468ad49e99e877643891fee8d
+    P0680C678: 6881740b71844ed2885c96b9a4dd685b
+  2347579063664d6cb2d5bee3dbb7e0f5:
+    PD3F05D6D: 22b9bfff633543a892f45963c55f8cec
+    P0680C678: 1b288e452c1345ba9bd6f603536c6625

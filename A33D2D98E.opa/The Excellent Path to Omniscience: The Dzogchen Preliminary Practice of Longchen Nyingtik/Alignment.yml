@@ -1,0 +1,61 @@
+segment_sources:
+  PD3F05D6D:
+    type: origin_type
+    relation: translation
+    language: en
+  PD775A70B:
+    type: origin_type
+    relation: translation
+    language: de
+  PEAE1D108:
+    type: origin_type
+    relation: translation
+    language: es
+  P85285275:
+    type: origin_type
+    relation: translation
+    language: fr
+  P5077C119:
+    type: origin_type
+    relation: translation
+    language: zh
+  P0680C678:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  637340a9a08a4e6bb5470f5b258c03cc:
+    PD3F05D6D: 1116af7da0c9406abec1cfe05813d900
+    PD775A70B: cf6dd8d412de4cee8c9d2928c6a40a4d
+    PEAE1D108: 55eab845879142c2a8488bbca73d6b60
+    P85285275: 18eefa1eb86e4aeb86626ac53c0d05b4
+    P5077C119: e8b097ab75334446a0a9eeffdd1514ac
+    P0680C678: 0b2a3414d97b431f8613c92714e517f9
+  a878c03732b3450f89d4b3871785d4d2:
+    PD3F05D6D: 0b006a1dd76a42eb9ddd305d8f63b70e
+    PD775A70B: 03ddb6aae9764a24a5edb8a61d5788b8
+    PEAE1D108: 149d7f94417648259d5fe6509723bf05
+    P85285275: fb1b1608dac046f180d99c10d5f321ed
+    P5077C119: 7db9dab88b084fafab7b56cc2f60dc79
+    P0680C678: afb886c706aa4840baf1975522472545
+  f530da5e75a44e90abf2ecb58236583e:
+    PD3F05D6D: bfed39810c5d402a854c4fe8df850f2c
+    PD775A70B: 29081d470b834fefb21b07311d210f95
+    PEAE1D108: a92d4f90129b483fa3f8b57fa7eb0432
+    P85285275: 61ad1001f680426e81a3d001ed8f6b70
+    P5077C119: 0d061d86dc4e486b950b385f6338f577
+    P0680C678: 19a4eda3534a4b289533c10e6f302045
+  c80a7dc0e7454ad09f65ae460e6c826a:
+    PD3F05D6D: 12b6f88a7fd9444bb413f7c8a11c47c8
+    PD775A70B: 8a107b41e98b44fc9b4fc717b56b0815
+    PEAE1D108: 6f66aa9cf0d343d298ce5bfed8f9cc28
+    P85285275: bd69cfee39c24321b2ea2bdac09b74b6
+    P5077C119: f2578794b05d4c85afad3fa348471b1d
+    P0680C678: 4950231f8ba242daba1a7f37f7c10a3c
+  a29d1bdcb6ff4764aaec7135414dcc1d:
+    PD3F05D6D: f1ebf9383193432082f0b57d59b5d163
+    PD775A70B: af054f884b8b47a9abfd4aba13697744
+    PEAE1D108: 65fd516f9f2d46cf93f852f6b74e2c29
+    P85285275: b6042cad32db4abab7c74e20606f82c7
+    P5077C119: 73a7e7fbfa77412f9e157df8d1e8b4de
+    P0680C678: 3f40101036a440dc99b971b2152548b5

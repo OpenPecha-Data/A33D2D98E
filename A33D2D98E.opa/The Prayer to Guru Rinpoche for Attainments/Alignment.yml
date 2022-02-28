@@ -1,0 +1,34 @@
+segment_sources:
+  PD3F05D6D:
+    type: origin_type
+    relation: translation
+    language: en
+  PD775A70B:
+    type: origin_type
+    relation: translation
+    language: de
+  PEAE1D108:
+    type: origin_type
+    relation: translation
+    language: es
+  P85285275:
+    type: origin_type
+    relation: translation
+    language: fr
+  P0680C678:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  b374458927f845b693ed1785dd03723c:
+    PD3F05D6D: 9e4bb38003d145aeb2fc9354a9285a75
+    PD775A70B: f6e838049cc84c4baa13616a68a0cd7d
+    PEAE1D108: c60239f585f84bbea71bf79087e2d97b
+    P85285275: 5713d88cb9524f22b3222b4b0208ce4f
+    P0680C678: 44c6acba00c64491abfc0a6bbbc631a5
+  a7431c3aebcb463b8dd4d0c35ea94729:
+    PD3F05D6D: d0e0b13c3eb34d7495f419e39117c7f0
+    PD775A70B: 9cf47145b1a64c8e9ae8cf73a29b2f04
+    PEAE1D108: 6f73915143084a9cb63636bb587a8688
+    P85285275: a612f5a32d0d4f8fb861da9bb2e43718
+    P0680C678: a189952342044fd5adfef6c89831ecd4
